@@ -1,0 +1,10 @@
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.csprojAssemblyReference.cache
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.form1.resources
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.Properties.Resources.resources
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.csproj.GenerateResource.cache
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.csproj.CoreCompileInputs.cache
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\bin\Debug\STSFINALS.exe.config
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\bin\Debug\STSFINALS.exe
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\bin\Debug\STSFINALS.pdb
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.exe
+C:\Users\christopher\source\repos\STSFINALS\STSFINALS\obj\Debug\STSFINALS.pdb
